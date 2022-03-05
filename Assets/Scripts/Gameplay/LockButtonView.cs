@@ -53,7 +53,6 @@ namespace Gameplay
 
         public void ResetView()
         {
-            _button.image.color = _preference.Unpressed;
             _presenter.ResetObject();
         }
         

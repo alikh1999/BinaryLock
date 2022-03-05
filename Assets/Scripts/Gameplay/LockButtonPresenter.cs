@@ -21,6 +21,7 @@ namespace Gameplay
         public void ResetObject()
         {
             _isButtonPressed = false;
+            _view.UpdateView(false);
         }
     }
 }
