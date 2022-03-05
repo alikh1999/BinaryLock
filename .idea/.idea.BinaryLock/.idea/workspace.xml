@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="901073ac-b651-4829-ae5e-43a592b58d66" name="Default Changelist" comment="" />
+    <list default="true" id="901073ac-b651-4829-ae5e-43a592b58d66" name="Default Changelist" comment="Init">
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockButtonPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockButtonPresenter.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/SequenceValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Utilities/SequenceHelper.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/SequenceValidator.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Utilities/SequenceHelper.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/Validation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Gameplay/Validation.cs" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -12,6 +17,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/LockView.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock://C:/Users/Wolf/Source/repos/BinaryLock/Assets/Scripts/Gameplay/Validation.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Gameplay/Validation.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <changedPaths>
@@ -26,12 +33,13 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/LockButtonView.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/LockPresenter.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/IValidator.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Validation.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/SequenceValidator.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockPresenter.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/ScriptableObjects/LockPassCode.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockButtonPresenter.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockView.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Validation.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/SequenceHelper.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockButtonPresenter.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockButtonView.cs" />
     </changedPaths>
   </component>

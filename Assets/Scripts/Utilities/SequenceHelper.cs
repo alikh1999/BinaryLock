@@ -2,7 +2,7 @@
 
 namespace Gameplay
 {
-    public static class SequenceValidator
+    public static class SequenceHelper
     {
         public static bool AreSequencesEqual(this List<int> list1 , List<int> list2)
         {
