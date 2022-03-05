@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="901073ac-b651-4829-ae5e-43a592b58d66" name="Default Changelist" comment="Init">
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockButtonPresenter.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockButtonPresenter.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/SequenceValidator.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Utilities/SequenceHelper.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/SequenceValidator.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Utilities/SequenceHelper.cs.meta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay/Validation.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Gameplay/Validation.cs" afterDir="false" />
+    <list default="true" id="901073ac-b651-4829-ae5e-43a592b58d66" name="Default Changelist" comment="Refactor">
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Gameplay.meta" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,8 +36,8 @@
       <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockView.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/Validation.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/SequenceHelper.cs" />
-      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockButtonPresenter.cs" />
       <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockButtonView.cs" />
+      <option value="$PROJECT_DIR$/Assets/Scripts/Gameplay/LockButtonPresenter.cs" />
     </changedPaths>
   </component>
   <component name="ProjectId" id="25xPYa63u4luv2lBe7bn84odsGL" />
@@ -91,6 +88,21 @@
       <updated>1646465816655</updated>
       <workItem from="1646465826071" duration="7630000" />
     </task>
+    <task id="LOCAL-00001" summary="Refactor&#10;move files to different folder">
+      <created>1646474231817</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646474231817</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Refactor">
+      <created>1646474351899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646474351899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,5 +123,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="Refactor&#10;move files to different folder" />
+    <MESSAGE value="Refactor" />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactor" />
   </component>
 </project>
