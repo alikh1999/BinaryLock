@@ -12,5 +12,5 @@ https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-
 # Framworks Or Packages Requirements
 nothing
 
-#Puporse of Developing Game 
+# Puporse of Developing Game 
 interview test
