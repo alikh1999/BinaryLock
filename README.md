@@ -2,8 +2,6 @@
 
 # Summary
 game is about opening binary lock.
-used default sprite for game.
-
 
 # Code Convection
 MSDN coding conventions for c#:
@@ -11,6 +9,9 @@ https://docs.microsoft.com/en-us/dotnet/csharp/fundamentals/coding-style/coding-
 
 # Framworks Or Packages Requirements
 nothing
+
+# Asset
+default asset
 
 # Puporse of Developing This Game 
 interview test
