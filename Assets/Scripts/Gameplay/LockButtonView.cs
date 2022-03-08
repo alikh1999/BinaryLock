@@ -11,12 +11,14 @@ namespace Gameplay
 
     public class LockButtonView : MonoBehaviour, ILockButtonView
     {
+        //properties should be defined after all private fields based on the project convention 
         public Button Button
         {
             get
             {
                 if (_button == null)
                 {
+                    //consider adding [RequireComponent] attr to enforce it 
                     return _button = GetComponent<Button>();
                 }
 

@@ -12,6 +12,7 @@ namespace ScriptableObjects
         {
             get
             {
+                //there is a faster way to parse a character instead of allocating it to a string first, research about it
                 return _passCode.Select(x => Convert.ToInt32(x.ToString()))
                     .ToList();
             }
@@ -20,6 +21,8 @@ namespace ScriptableObjects
         [SerializeField] 
         private string _passCode;
 
+        //your validate API is ambiguous, the norm is to return a string if it finds any error instead of throwing exceptions 
+        //your approach is specially slow if we have to catch every single possible exception when validating a large data set 
         public void Validate()
         {
             if (_passCode.All(char.IsDigit))
